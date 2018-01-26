@@ -13,5 +13,5 @@
 
 运行截图：
 1、登录
-![登录界面]( manager-system/demo/login.png )
+![登录界面]( https://github.com/DYZ1995/manager-system/demo/login.png )
 
