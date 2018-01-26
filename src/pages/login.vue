@@ -29,6 +29,7 @@
 		width: 100%;
 		text-align: center;
 		margin-top: 50px;
+		font-size: 25px;
 	}
 	.login input{
 		width: 70%;
