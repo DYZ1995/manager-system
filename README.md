@@ -4,6 +4,9 @@
 
 基于Vue的文章后台管理系统
 
+
+数据接口使用到了easymock
+
 主要功能：
 1、文章编写发布
 2、文章管理
@@ -32,6 +35,8 @@
 
 ![文章编辑](https://github.com/DYZ1995/manager-system/blob/master/demo/textEditor.png)
 
+![效果](https://github.com/DYZ1995/manager-system/blob/master/demo/ar-1.png)
+
 使用了vue-quill-editor富文本框编辑插件，
 实现过程
 
@@ -57,6 +62,14 @@
 
 ![文章发布](https://github.com/DYZ1995/manager-system/blob/master/demo/textSend.png)
 
+分页
+
+![分页](https://github.com/DYZ1995/manager-system/blob/master/demo/page.png)
+
+模糊查询
+![时间筛选](https://github.com/DYZ1995/manager-system/blob/master/demo/select.png)
+
+
 使用了element的时间选择插件、分页
 
 搜索框实现了模糊查询功能
@@ -64,6 +77,12 @@
 4、文章管理
 
 ![文章管理](https://github.com/DYZ1995/manager-system/blob/master/demo/textManager.png)
+
+时间筛选
+
+![时间筛选](https://github.com/DYZ1995/manager-system/blob/master/demo/time.png)
+
+
 
 5、数据统计
 
